@@ -1,6 +1,6 @@
 /*********************Drop Database***********************************/
 go
-use QUANLYMATHANG_B6_207ct55065
+use QUANLYMATHANG_B5_207ct55065
 
 /*****************************XOA BANG****************************/
 
@@ -23,7 +23,7 @@ drop table HANGHOA
 go
 use master
 
-drop database QUANLYMATHANG_B6_207ct55065
+drop database QUANLYMATHANG_B5_207ct55065
 
 
 

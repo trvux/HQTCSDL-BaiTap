@@ -1,8 +1,8 @@
 /******************************CREATE DATABASE********************************/
 
-CREATE DATABASE QUANLYMATHANG_B6_207ct55065
+CREATE DATABASE QUANLYMATHANG_B5_207ct55065
 GO 
-USE QUANLYMATHANG_B6_207ct55065
+USE QUANLYMATHANG_B5_207ct55065
 
 /************************TAO BANG SINH VIEN*************************/
 -- TẠO BẢNG HANGHOA 

@@ -1,5 +1,5 @@
 ﻿/*********************USE DATABASE***************************/
-USE QUANLYMATHANG_B6_207ct55065
+USE QUANLYMATHANG_B5_207ct55065
 
 INSERT INTO HANGHOA
 VALUES ('BU',N'Bàn ủi Philip',N'Cái',60,350000),
