@@ -56,3 +56,5 @@ Xem thư mục `notes/` — mỗi khái niệm quan trọng đã giải thích t
 đây để buổi sau không phải hỏi lại từ đầu.
 - `notes/trigger-vs-app-validation.md` — cơ chế INSERTED/DELETED, vì sao cần trigger ở DB thay vì
   chỉ validate ở app.
+- `notes/cursor-co-che.md` — cơ chế cursor (DECLARE/OPEN/FETCH/@@FETCH_STATUS/CLOSE) bằng sơ đồ
+  ASCII; ghi note dạng ASCII, không dùng Mermaid.
